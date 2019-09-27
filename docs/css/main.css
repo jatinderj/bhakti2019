@@ -9,7 +9,7 @@
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #691cff;
-  color: rgb(248, 134, 134);
+  color: rgb(248, 9, 9);
 }
 
 ::selection {
@@ -45,7 +45,7 @@
 
 ::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: #0e25fa;
+  color: #f6fa0e;
   font-weight: 300;
 }
 
@@ -113,13 +113,13 @@ a, a:focus, a:hover {
 }
 
 .gray-bg {
-  background: #fa8050;
+  background: #0598ee;
 }
 
 h1, h2, h3,
 h4, h5, h6 {
   font-family: "Poppins", sans-serif;
-  color: #e95353;
+  color: #ff0000;
   line-height: 1.2em !important;
   margin-bottom: 0;
   margin-top: 0;
@@ -774,7 +774,7 @@ td, th {
 }
 
 b, i, sup, sub, u, del {
-  color: #f0632c;
+  color: #6e17fa;
 }
 
 h1 {
@@ -886,14 +886,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .genric-btn.default {
-  color: #ca7474;
+  color: #64e90c;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
 
 .genric-btn.default:hover {
   border: 1px solid #f9f9ff;
-  background: rgb(240, 140, 140);
+  background: rgb(160, 240, 140);
 }
 
 .genric-btn.default-border {
@@ -1005,12 +1005,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.danger {
   color: #fff;
-  background: #f44a40;
+  background: #d400ff;
   border: 1px solid transparent;
 }
 
 .genric-btn.danger:hover {
-  color: #f44a40;
+  color: #fa02c4;
   border: 1px solid #f44a40;
   background: #fff;
 }
@@ -1136,11 +1136,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-2 {
-  background-color: #e66686;
+  background-color: #71e666;
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-3 {
-  background-color: #f09359;
+  background-color: #16f302;
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-4 {
@@ -1160,7 +1160,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-8 {
-  background-color: #e66686;
+  background-color: #66e66c;
 }
 
 .single-gallery-image {
@@ -1188,7 +1188,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14px;
   height: 14px;
   border: 3px solid #fcd2ff;
-  background: rgb(245, 128, 128);
+  background: rgb(0, 255, 13);
   top: 4px;
   left: 0;
   border-radius: 50%;
@@ -1313,7 +1313,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-accent:focus {
   outline: none;
-  border: 1px solid #eb6b55;
+  border: 1px solid #ff0000;
 }
 
 .single-input-secondary {
@@ -1328,7 +1328,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-secondary:focus {
   outline: none;
-  border: 1px solid #f09359;
+  border: 1px solid #00ffd5;
 }
 
 .default-switch {
@@ -1515,7 +1515,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .confirm-switch input:checked + label:before {
-  background: #e7802c;
+  background: #00ffc8;
 }
 
 .primary-checkbox {
@@ -1911,10 +1911,10 @@ nav {
     background: #fff;
   }
   nav a {
-    color: #ff7866 !important;
+    color: #f700ff !important;
   }
   nav a:hover {
-    color: #ff8668;
+    color: #07ff1c;
   }
 }
 
@@ -1923,7 +1923,7 @@ nav.hide {
 }
 
 nav a {
-  color: rgb(46, 33, 240);
+  color: rgb(81, 240, 33);
   font-size: 12px;
   font-weight: 500;
   text-transform: uppercase;
@@ -1966,7 +1966,7 @@ nav a:hover {
 
 .p1-gradient-bg, .primary-btn:after, .is-sticky .default-header, .single-img, .member-area .overlay-bg, .contact-area .primary-btn, .footer-social a:hover {
   background-image: -moz-linear-gradient(0deg, #f86358 0%, #f51cb0 100%);
-  background-image: -webkit-linear-gradient(0deg, #691cff 0%, #f085ce 100%);
+  background-image: -webkit-linear-gradient(0deg, #691cff 0%, #e5fd0d 100%);
   background-image: -ms-linear-gradient(0deg, #691cff 0%, #f51cb0 100%);
 }
 
@@ -1983,7 +1983,7 @@ nav a:hover {
   padding: 0 30px;
   border-radius: 20px;
   background: transparent;
-  border: 1px solid rgb(236, 111, 111);
+  border: 1px solid rgb(111, 236, 153);
   color: #222222;
   display: inline-block;
   font-weight: 500;
@@ -2038,12 +2038,12 @@ nav a:hover {
 }
 
 .banner-content h1 {
-  color: rgb(240, 124, 124);
+  color: rgb(226, 5, 255);
   font-size: 124px;
   letter-spacing: 3px;
   font-weight: 700;
   line-height: 1.15em;
-  text-shadow: 13px 15px 8px rgba(63, 107, 169, 0.5);
+  text-shadow: 13px 15px 8px rgba(245, 5, 5, 0.5);
 }
 
 @media (max-width: 991px) {
@@ -2247,7 +2247,7 @@ nav a:hover {
 .member-area .next-trigger, .member-area .prev-trigger {
   width: 40px;
   background: transparent;
-  border: 1px solid rgb(226, 159, 159);
+  border: 1px solid rgb(0, 250, 0);
   text-align: center;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -2398,7 +2398,7 @@ nav a:hover {
 }
 
 .contact-area {
-  background-color: #0000ec;
+  background-color: #08e71b;
 }
 
 .contact-area .primary-btn {
@@ -2459,7 +2459,7 @@ nav a:hover {
 }
 
 .common-textarea {
-  border: 1px solid #081dff;
+  border: 1px solid #c8f306;
   width: 100%;
   display: block;
   background: transparent;
@@ -2485,11 +2485,11 @@ nav a:hover {
 }
 
 .copy-right-text i {
-  color: #691cff;
+  color: #ff0202;
 }
 
 .copy-right-text a {
-  color: #691cff;
+  color: #fd07dc;
 }
 
 .copy-right-text a:hover {
