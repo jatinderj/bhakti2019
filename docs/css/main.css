@@ -3637,9 +3637,9 @@ ul.faq li > div h3 {
   box-sizing: border-box;
 }
 body {
-  padding-top: 80px;
+  padding-top: 2px;
   color: #fcf7fc;
-  background: #ff90f6;
+  background: #ff85f5;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
@@ -4244,7 +4244,7 @@ body > section {
 }
 .progress,
 .progress .bar {
-  background: rgb(208, 143, 228);
+  background: rgb(219, 135, 245);
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
