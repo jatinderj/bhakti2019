@@ -21,7 +21,7 @@ body{margin: 0%}
 header{
     background: rgb(241, 5, 202);
     color:rgb(215, 238, 13);
-    padding: 4px 0px 6px 100px;
+    padding: 8px 0px 6px 100px;
     height:35px;
     width: 137%;
 }
@@ -217,5 +217,5 @@ color: rgb(255, 217, 1);
 
 .container1{
     background: rgb(136, 255, 0);
-    width: 101%;
+    width: 11%;
 }
