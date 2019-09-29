@@ -9,9 +9,9 @@ body{margin: 0%}
     bottom:0%;
    z-index: auto;
    widows:50px;
-   height: 500px;
-   border: 5px solid rgb(233, 15, 222);
-   left: 5%;
+   height: 300px;
+   border: 5px solid rgb(255, 181, 251);
+   left: 2%;
     
 }
 
@@ -21,8 +21,9 @@ body{margin: 0%}
 header{
     background: rgb(241, 5, 202);
     color:rgb(215, 238, 13);
-    padding: 8px 0px 6px 90px;
+    padding: 4px 0px 6px 100px;
     height:35px;
+    width: 137%;
 }
 header h1{ display: inline;
     font: outline;
@@ -47,7 +48,7 @@ nav ul li{
 }
 
 nav ul li a{
-color: rgb(187, 195, 196);
+color: rgb(255, 217, 1);
     text-decoration: none;
     display: block;
 
@@ -97,8 +98,9 @@ color: rgb(187, 195, 196);
     text-align: center;
 }
 .divider{
-    background: rgb(255, 67, 246);
-    height: 5px;
+    background: rgb(252, 147, 246);
+    height: 6px;
+    width: 564px;
 }
 .homegreen:hover {background: rgb(163, 124, 163);
 }
@@ -114,11 +116,13 @@ color: rgb(187, 195, 196);
 }
 .container{
     background: rgb(248, 47, 248);
-    width: 101%;
+
+    padding:1px 1px 1px;
+    width: 100%;
 }
 .jkgj{
     width: 1009px;
-    background: rgb(241, 106, 230);
+    background: rgb(252, 102, 239);
     margin: auto;
 }
 .love{
