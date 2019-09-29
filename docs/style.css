@@ -9,9 +9,9 @@ body{margin: 0%}
     bottom:0%;
    z-index: auto;
    widows:50px;
-   height: 545px;
-   border: 5px solid rgb(165, 10, 10);
-   left: 4;
+   height: 500px;
+   border: 5px solid rgb(233, 15, 222);
+   left: 5%;
     
 }
 
@@ -21,8 +21,8 @@ body{margin: 0%}
 header{
     background: rgb(241, 5, 202);
     color:rgb(215, 238, 13);
-    padding: 8px 0px 6px 40px;
-    height: 40px;
+    padding: 8px 0px 6px 90px;
+    height:35px;
 }
 header h1{ display: inline;
     font: outline;
@@ -56,17 +56,17 @@ color: rgb(187, 195, 196);
     font-style: tahoma;
 }
 .jred {
-    background: rgb(211, 13, 13);
-    padding: 4px 2px 1px;
-    border: 1px solid rgb(235, 212, 8);
+    background: rgb(231, 7, 252);
+    padding: 2px 1px 1px;
+    border: 1px solid rgb(142, 255, 14);
     width: 121px;
     height: 35px;
     line-height: 35px;
     text-align: center;
 }
 .homegreen{
-    background: rgb(39, 22, 190);
-    padding: 4px 2px 1px;
+    background: rgb(205, 7, 245);
+    padding: 2px 1px 1px;
     border: 1px solid rgb(10, 236, 112);
     width: 121px;
     height: 35px;
@@ -77,9 +77,9 @@ color: rgb(187, 195, 196);
 
 }
 .homeblack{
-    background: rgb(238, 12, 12);
-    padding: 4px 2px 1px;
-    border: 1px solid rgb(18, 247, 37);
+    background: rgb(255, 0, 191);
+    padding:2px 1px 1px;
+    border: 1px solid rgb(34, 203, 245);
     width: 121px;
     height: 35px;
     line-height: 35px;
@@ -88,37 +88,37 @@ color: rgb(187, 195, 196);
 
 }
 .homejk{
-    background: rgb(135, 21, 201);
-    padding: 4px 2px 1px;
-    border: 1px solid rgb(243, 243, 238);
+    background: rgb(227, 16, 255);
+    padding:2px 1px 1px;
+    border: 1px solid rgb(241, 241, 22);
     width: 121px;
     height: 35px;
     line-height: 35px;
     text-align: center;
 }
 .divider{
-    background: rgb(191, 149, 245);
+    background: rgb(255, 67, 246);
     height: 5px;
 }
-.homegreen:hover {background: rgb(25, 64, 238);
+.homegreen:hover {background: rgb(163, 124, 163);
 }
 .jred:hover{
-    background: rgb(61, 78, 236);
+    background: rgb(245, 146, 245);
 }
 .homejk:hover{
-    background: rgb(83, 215, 238);
+    background: rgb(235, 158, 250);
    
 }
 .homeblack:hover{
-    background: rgb(16, 223, 51);
+    background: rgb(231, 132, 215);
 }
 .container{
-    background: rgb(248, 226, 29);
+    background: rgb(248, 47, 248);
     width: 101%;
 }
 .jkgj{
-    width: 991px;
-    background: rgb(245, 131, 131);
+    width: 1009px;
+    background: rgb(241, 106, 230);
     margin: auto;
 }
 .love{
@@ -152,11 +152,11 @@ color: rgb(187, 195, 196);
 }
 
 #menu ul li a:hover{
-    background-color: rgb(243, 10, 208);
+    background-color: rgb(238, 255, 0);
 
 }
 .nony{
-    background-color: rgb(152, 202, 16);
+    background-color: rgb(0, 255, 34);
     width: 99%;
 }
 #menu ul ul {
@@ -173,7 +173,7 @@ color: rgb(187, 195, 196);
 #nony1{
     height: 20px;
     line-height: 20px;
-   border: 5px solid rgb(236, 122, 15);
+   border: 5px solid rgb(173, 255, 96);
    margin-top: 1px;
 
 }
@@ -182,18 +182,18 @@ color: rgb(187, 195, 196);
     border-radius:20px;
 }
 #butto{
-    background-color: rgb(175, 230, 26);
+    background-color: rgb(245, 7, 7);
     color: rgb(226, 14, 14);
     padding: 1px;
     border-radius: 15px;
-    border:2px solid rgb(57, 231, 14);
+    border:2px solid rgb(206, 14, 231);
 }
 .love{
-    background-color: rgb(0, 255, 85);
+    background-color: rgb(0, 26, 255);
 }
 #jkimage img{
     width: 270px;
-    border: 2px solid rgb(112, 8, 248);
+    border: 2px solid rgb(238, 0, 0);
     padding: 15px;
     background-color: rgb(93, 58, 223);
     box-shadow: 5px 5px 10px rgb(235, 8, 8);
@@ -203,15 +203,15 @@ color: rgb(187, 195, 196);
     float: left;
 }
 
-.style { background-color: rgb(93, 230, 30);
+.style { background-color: rgb(218, 0, 247);
 
 }
 
 .lovej{
-    background-color: rgb(237, 248, 241);
+    background-color: rgb(243, 7, 231);
 }
 
 .container1{
-    background: rgb(238, 237, 231);
+    background: rgb(136, 255, 0);
     width: 101%;
 }
