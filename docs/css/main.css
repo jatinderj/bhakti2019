@@ -2022,14 +2022,16 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/banner-bg.jpg) no-repeat center center/cover;
+  background: url(../img/banner-bg.jpg) 
+  
+  
+  
+  
+  
+  no-repeat center center/cover;
 }
 
-@media (max-width: 767px) {
-  .banner-area .fullscreen {
-    height: 700px !important;
-  }
-}
+
 
 @media (max-width: 767px) {
   .banner-content {
@@ -2071,12 +2073,12 @@ nav a:hover {
 }
 
 .banner-content p {
-  color: rgb(86, 25, 253);
+  color: rgb(255, 146, 250);
   margin-bottom: 60px;
-  font-weight: 400;
+  font-weight: 800;
   letter-spacing: 3px;
-  max-width: 730px;
-  font-size: 16px;
+  max-width: 930px;
+  font-size: 26px;
 }
 
 @media (max-width: 767px) {
@@ -2090,6 +2092,13 @@ nav a:hover {
     display: none;
   }
 }
+
+
+
+
+
+
+
 
 .quote-left h2 {
   font-weight: 100;
